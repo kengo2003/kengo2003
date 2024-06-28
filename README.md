@@ -2,7 +2,7 @@
 
 ![most used](https://github-readme-stats.vercel.app/api/top-langs?username=kengo2003&show_icons=true&locale=en&layout=compact)
 
-{* *}![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kengo2003&show_icons=true)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kengo2003&show_icons=true)-->
 
 ## Languages,Frameworks,Library
 
@@ -10,4 +10,4 @@
 
 ## Dev Tools
 
-<img src="https://skillicons.dev/icons?i=cloudflare,workers,gcp,docker,figma,github,vscode,yarn,"><br /><br />
+<img src="https://skillicons.dev/icons?i=cloudflare,gcp,docker,figma,github,vscode,yarn,"><br /><br />
