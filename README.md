@@ -5,10 +5,10 @@
 
 
 ## Languages,Frameworks,Library
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,php,nextjs,astro,nodejs,prisma,react,tailwind," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,php,java,nextjs,react,astro,nodejs,prisma,tailwind," /> <br /><br />
 
 ## Dev Tools
-<img src="https://skillicons.dev/icons?i=cloudflare,gcp,supabase,figma,github,vscode,yarn,"><br /><br />
+<img src="https://skillicons.dev/icons?i=cloudflare,gcp,supabase,figma,github,vscode,yarn,bun"><br /><br />
 
 ## Tech Blog
 [Qiita](https://qiita.com/Kengo2003)
