@@ -10,9 +10,7 @@
 <img src="https://skillicons.dev/icons?i=nextjs,react,astro,nodejs,prisma,tailwind," /><br />
 
 ## etc...
-<img src="https://skillicons.dev/icons?i=yarn,bun"><br />
-<img src="https://skillicons.dev/icons?i=cloudflare,gcp,supabase"><br />
-<img src="https://skillicons.dev/icons?i=figma,github,vscode"><br />
+<img src="https://skillicons.dev/icons?i=yarn,bun,cloudflare,gcp,supabase,figma,github"><br />
 
 ## Tech Blog
 [Qiita](https://qiita.com/Kengo2003)
