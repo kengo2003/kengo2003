@@ -1,8 +1,6 @@
 # kengo2003
 
-![most used](https://github-readme-stats.vercel.app/api/top-langs?username=kengo2003&show_icons=true&locale=en&layout=compact)
-<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kengo2003&show_icons=true)-->
-
+![most used](https://github-readme-stats.vercel.app/api/top-langs?username=kengo2003&show_icons=false&locale=en&layout=compact)
 
 ## Languages
 <img src="https://skillicons.dev/icons?i=html,css,js,typescript,rust,php,java" /> <br />
