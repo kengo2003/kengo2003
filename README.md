@@ -5,7 +5,7 @@
 ## Languages
 <img src="https://skillicons.dev/icons?i=html,css,js,typescript,rust,php,java,python" /> <br />
 ## Frameworks,Library
-<img src="https://skillicons.dev/icons?i=nextjs,react,astro,nodejs,prisma,tailwind," /><br />
+<img src="https://skillicons.dev/icons?i=nextjs,react,nest,astro,nodejs,prisma,tailwind," /><br />
 
 ## etc...
 <img src="https://skillicons.dev/icons?i=yarn,bun,cloudflare,gcp,supabase,figma,github"><br />
