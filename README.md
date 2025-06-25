@@ -1,8 +1,8 @@
 # 👏kengo2003
 
 <p align="left"> 
-  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=kengo2003&show_icons=false&locale=en&theme=onedark&hide=css&layout=compact" />
-  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=kengo2003&theme=onedark&hide=stars&show_icons=true" />
+  <img alt="Top Langs" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs?username=kengo2003&show_icons=false&locale=en&theme=onedark&hide=css&layout=compact" />
+  <img alt="github stats" height="160px" src="https://github-readme-stats.vercel.app/api?username=kengo2003&theme=onedark&hide=stars&show_icons=true" />
 </p>
 
 ## Languages
