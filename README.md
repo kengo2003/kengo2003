@@ -1,7 +1,7 @@
 # 👏kengo2003
 
 <p align="left"> 
-  <img alt="Top Langs" height="160px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=kengo2003&show_icons=true&locale=en&theme=onedark&layout=compact" />
+  <img alt="Top Langs" height="160px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=kengo2003&show_icons=true&locale=en&theme=onedark&hide=css&layout=compact" />
   <img alt="github stats" height="160px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kengo2003&theme=onedark&hide=stars&show_icons=true" />
 </p>
 
