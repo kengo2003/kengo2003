@@ -1,4 +1,7 @@
-# 👏 I'm Kengo Saito
+# 👏 I'm Kengo, a CS student based in Japan.
+
+Currently focused on Full-stack Web Development and LLM applications.  
+Deeply interested in Cybersecurity. Constantly learning with TypeScript and Rust.  
 
 <p align="left"> 
   <img alt="Top Langs" height="160px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=kengo2003&show_icons=true&locale=en&theme=onedark&hide=css&layout=compact" />
