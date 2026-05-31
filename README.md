@@ -1,4 +1,4 @@
-# 👏 I'm Kengo, a CS student based in Japan.
+# Kengo Saito
 
 Currently focused on Full-stack Web Development and LLM applications.  
 Deeply interested in Cybersecurity. Constantly learning with TypeScript and Rust.  
